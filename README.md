@@ -1,4 +1,4 @@
-# 🐭 Micromouse Competition Code
+# 🐭 Micromouse Code
 
 This repository contains the code used in our **Micromouse Competition**, where we successfully implemented **maze exploration and solving algorithms**. Our team competed against 12 others and won the challenge using a combination of **Depth-First Search (DFS) for exploration** and **Floodfill for solving**.
 
