@@ -18,6 +18,7 @@ This repository contains the code used in our **Micromouse Competition**, where 
 ## 📜 Code Overview
 - `main.ino` - The arduino code for the micromouse
 - `depth_first_search.py` - Python code for the simulator which used to check the algorythm
+- `maze9x9.num.txt` - 9x9 maze we have used for the simulator
 
 ## 🖥️ Simulator Used
 We tested our algorithms using a simulator before deploying them to the actual robot.  
